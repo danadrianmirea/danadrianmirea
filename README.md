@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danadrianmirea
 - 👀 I’m interested in software development in general mostly focusing on C/C++, Linux and game development
-- 🌱 I’m currently learning Ruby and Python
+- 🌱 I’m currently learning Rust, Ruby and Python, and others
 - 📫 How to reach me: damirea84@gmail.com
 
 <!---
