@@ -1,4 +1,4 @@
 - Hi, I’m Adrian
 - I’m interested in software development in general mostly focusing on C, C++, Linux and game development
-- I’m currently learning C#, Rust, Python, and others
+- I’m currently learning C#, Rust, Zig
 - How to reach me: damirea84@gmail.com
