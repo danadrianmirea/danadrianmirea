@@ -4,6 +4,6 @@
 - Here on GitHub I have mostly learning projects (and a lot of small games, in Unity, Raylib and others:
   https://github.com/danadrianmirea/raypong
   https://github.com/danadrianmirea/rayspaceinvaders
-  https://github.com/danadrianmirea/RaylibTetris
-  https://github.com/danadrianmirea/RaySnake
+ test
+test2
 - Checkout my itch.io page where you can download and play these games: https://adrianmirea.itch.io/
