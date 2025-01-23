@@ -2,7 +2,7 @@
 - I’m interested in software development in general mostly focusing on C, C++, Linux and game development
 - Also currently learning other languages like C#, Java, Python, Odin, Zig, Go, Rust
 - How to reach me: damirea84@gmail.com
-- Here on GitHub I have mostly learning projects and a lot of small games and demos, in Unity, Unreal, Raylib and others:
+- Here on GitHub I have mostly learning projects and a lot of small games and demos, in Unity, Unreal, Raylib and others, here's a few:
  
   https://github.com/danadrianmirea/raypong
   
