@@ -12,8 +12,6 @@
   
   https://github.com/danadrianmirea/RaySnake
 
-  Note to self: I really need to update this list and the readme.md in general, there is *a lot* of stuff here worth mentioning I think 😊
-  
 - Checkout my itch.io page where you can download and play some of my games: https://adrianmirea.itch.io/
 
   
