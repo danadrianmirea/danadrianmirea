@@ -4,6 +4,8 @@
 - How to reach me: damirea84@gmail.com
 - Here on GitHub I have mostly learning projects, forks from interesting repos and a lot of small games and demos, in Unity, Unreal, Raylib and others, here's a few:
 
+  https://github.com/danadrianmirea/mandelbrot_viewer
+  
   https://github.com/danadrianmirea/raylib-solitaire
   
   https://github.com/danadrianmirea/raypong
