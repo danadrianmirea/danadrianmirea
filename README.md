@@ -3,6 +3,8 @@
 - I sometimes also code in other languages like Odin, Zig, Go, Rust
 - How to reach me: damirea84@gmail.com
 - Here on GitHub I have mostly learning projects, forks from interesting repos and a lot of small games and demos, in Unity, Unreal, Raylib and others, here's a few:
+- 
+  https://github.com/danadrianmirea/raylib_minesweeper
 
   https://github.com/danadrianmirea/raylib_flappy_kat
 
