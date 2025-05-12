@@ -10,6 +10,8 @@
 
   https://github.com/danadrianmirea/raylib_flappy_kat
 
+  https://github.com/danadrianmirea/piano_synth  
+
   https://github.com/danadrianmirea/mandelbrot_viewer
   
   https://github.com/danadrianmirea/raylib-solitaire
