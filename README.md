@@ -8,7 +8,7 @@
   
   https://github.com/danadrianmirea/raylib_minesweeper
 
-  https://github.com/danadrianmirea/raylib_flappy_kat
+  https://github.com/danadrianmirea/hovercat
 
   https://github.com/danadrianmirea/piano_synth  
 
