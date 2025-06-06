@@ -22,7 +22,7 @@
   
   https://github.com/danadrianmirea/tetris
   
-  https://github.com/danadrianmirea/RaySnake
+  https://github.com/danadrianmirea/snake
 
   https://github.com/danadrianmirea/GameOfLife
 
