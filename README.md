@@ -20,7 +20,7 @@
   
   https://github.com/danadrianmirea/spaceinvaders
   
-  https://github.com/danadrianmirea/RaylibTetris
+  https://github.com/danadrianmirea/tetris
   
   https://github.com/danadrianmirea/RaySnake
 
