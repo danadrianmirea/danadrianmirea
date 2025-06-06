@@ -14,7 +14,7 @@
 
   https://github.com/danadrianmirea/mandelbrot_viewer
   
-  https://github.com/danadrianmirea/raylib-solitaire
+  https://github.com/danadrianmirea/klondike-solitaire
   
   https://github.com/danadrianmirea/raypong
   
