@@ -16,7 +16,7 @@
   
   https://github.com/danadrianmirea/klondike-solitaire
   
-  https://github.com/danadrianmirea/raypong
+  https://github.com/danadrianmirea/pong
   
   https://github.com/danadrianmirea/rayspaceinvaders
   
