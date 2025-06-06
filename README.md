@@ -18,7 +18,7 @@
   
   https://github.com/danadrianmirea/pong
   
-  https://github.com/danadrianmirea/rayspaceinvaders
+  https://github.com/danadrianmirea/spaceinvaders
   
   https://github.com/danadrianmirea/RaylibTetris
   
