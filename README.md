@@ -6,7 +6,7 @@
 
   https://github.com/danadrianmirea/houston_control
   
-  https://github.com/danadrianmirea/raylib_minesweeper
+  https://github.com/danadrianmirea/minesweeper
 
   https://github.com/danadrianmirea/hovercat
 
