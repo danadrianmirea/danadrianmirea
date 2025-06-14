@@ -1,6 +1,6 @@
 - Hi, I’m Adrian
 - I’m interested in software development in general mostly focusing on C++, C#, and game development in Unity, Unreal and Raylib
-- I sometimes also code in other languages like Odin, Zig, Go, Rust, Python
+- I sometimes also code in other languages like Rust, Python, Go, Zig, Odin
 - How to reach me: damirea84@gmail.com
 - Here on GitHub I have mostly learning projects, forks from interesting repos and a lot of small games and demos, in Unity, Unreal, Raylib and others, here's a few:
 
