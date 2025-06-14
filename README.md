@@ -4,8 +4,8 @@
 - How to reach me: damirea84@gmail.com
 - Here on GitHub I have mostly learning projects, forks from interesting repos and a lot of small games and demos, in Unity, Unreal, Raylib and others, here's a few:
 
-  https://github.com/danadrianmirea/raylib_cmake_template ( The template I use as a starting point for all my games )
-
+  https://github.com/danadrianmirea/raylib_cmake_template
+  
   https://github.com/danadrianmirea/houston_control
   
   https://github.com/danadrianmirea/minesweeper
