@@ -4,6 +4,8 @@
 - How to reach me: damirea84@gmail.com
 - Here on GitHub I have mostly learning projects, forks from interesting repos and a lot of small games and demos, in Unity, Unreal, Raylib and others, here's a few:
 
+  https://github.com/danadrianmirea/upwork-recent-filter
+
   https://github.com/danadrianmirea/raylib_cmake_template
   
   https://github.com/danadrianmirea/houston_control
