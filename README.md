@@ -31,8 +31,3 @@
   https://github.com/danadrianmirea/GameOfLife
 
 - Checkout my itch.io page where you can download and play some of my games: https://adrianmirea.itch.io/
-  
-- Adding this here so I don't forget about it: https://github.com/danadrianmirea/AwesomeCppGameDev
-
-  
-
